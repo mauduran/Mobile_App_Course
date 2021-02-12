@@ -43,17 +43,5 @@ class _SplashScreenState extends State<SplashScreen> {
         )),
       ),
     );
-
-// Container(
-//   constraints: BoxConstraints.expand(),
-//   decoration: BoxDecoration(
-//   image: DecorationImage(
-// 	image: NetworkImage("https://flutter-examples.com/wp-content/uploads/2020/02/dice.jpg"),
-//   fit: BoxFit.cover)
-//   ),
-//   child: Center(child: Text('Set Full Screen Background Image in Flutter',
-// 	textAlign: TextAlign.center, style:
-// 	TextStyle(color: Colors.brown, fontSize: 25, fontWeight: FontWeight.bold),),)
-//    )
   }
 }
